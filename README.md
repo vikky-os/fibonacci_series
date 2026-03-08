@@ -1,4 +1,2 @@
-# python 
-this repo is being created so as to record fun things related to pyhton which i learnt during my coursework
-i have tried to put different things inside this repo mainly using google clab as i love coding there as of now 
-thanks
+# fibonacci series 
+this is a very interesting concept for me which made me get a very clear idea of how recursion works in the functions
